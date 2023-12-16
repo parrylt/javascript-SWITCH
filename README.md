@@ -1,2 +1,3 @@
 # javascript-SWITCH
-um switch statement simples de javascript
+um switch statement simples de javascript.
+<br><br>
